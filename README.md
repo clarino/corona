@@ -1,5 +1,5 @@
 # corona
-Analysis of corona compounds from the Norwegian Newspaper Corpus
+Analysis of corona compounds from the Norwegian Newspaper Corpus. These files accompany the CLARIN 2020 presentation entitled *Contagious “corona” compounding in a CLARIN newspaper monitor corpus* by Koenraad De Smedt.
 
 ## The main result data files are the following:
 
