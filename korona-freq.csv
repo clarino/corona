@@ -1,4 +1,3 @@
-14481 viruset
 4161 krisen
 2204 smitte
 2031 virus
@@ -19,7 +18,6 @@
  231 tider
  196 karantene
  173 loven
- 162 virusets
  154 virusutbruddet
  132 krise
  126 tilfeller
@@ -58,7 +56,6 @@
   38 rammet
   38 informasjon
   37 grep
-  36 virusepidemien
   36 telefon
   35 lov
   34 teste
@@ -99,6 +96,7 @@
   17 tida
   17 effekt
   17 dugnaden
+  16 virusepidemien
   16 vaksinen
   16 tilfellene
   16 pandemi
@@ -228,9 +226,6 @@
    6 alarmen
    5 virustilfeller
    5 viruspasienter
-   5 viruser
-   5 virusepidemi
-   5 virusene
    5 vett
    5 utvalg
    5 utsettelsene
@@ -346,7 +341,6 @@
    3 virussmitten
    3 virusmøte
    3 virushar
-   3 viruseffekten
    3 virusbeskyttelse
    3 vaksiner
    3 utstyr
@@ -456,7 +450,7 @@
    2 viruskarantene
    2 virusinfeksjonen
    2 virusfrykt
-   2 viruses
+   2 virusepidemi
    2 vinner
    2 vesenet
    2 verstingen
@@ -651,7 +645,6 @@
    1 åpningstider
    1 åpning
    1 vårens
-   1 vius
    1 viurset
    1 vitsene
    1 vis
@@ -663,7 +656,6 @@
    1 virustider
    1 virustema
    1 virustap
-   1 virust
    1 virussyke
    1 virussykdom2
    1 virussvar
@@ -695,10 +687,7 @@
    1 virusferien
    1 virusfaste
    1 viruseumøter
-   1 viruset?
-   1 virusert
    1 virusepidemier
-   1 virusen
    1 viruseffekt
    1 virusdødsfallet
    1 virusdrevne
@@ -711,7 +700,6 @@
    1 virusalarmen
    1 virusadvarsel
    1 virkningene
-   1 viorusutbruddet
    1 vinnerne
    1 vinneren
    1 vinden
@@ -719,7 +707,6 @@
    1 venting
    1 venner
    1 veilederen
-   1 vciruset
    1 vasken
    1 varsleren
    1 varsler
@@ -729,7 +716,6 @@
    1 vakt
    1 vaksinene
    1 uvær
-   1 utviiklingen
    1 uttalelse
    1 utstilling
    1 utsettes
@@ -1063,7 +1049,6 @@
    1 kostnadstallene
    1 kostnadene
    1 kostnaden
-   1 kortidsplassene
    1 kortet
    1 kontroll
    1 kontoret
@@ -1191,7 +1176,6 @@
    1 fatiguen
    1 fasen
    1 episenteret
-   1 epdemien
    1 endres
    1 eliten
    1 eksport
@@ -1305,5 +1289,3 @@
    1 akonsekvenser
    1 aggresjonen
    1 adferd
-   1 17
-   1 /covid19situasjonen

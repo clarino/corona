@@ -1,5 +1,4 @@
 VG	1/09	virus
-VG	1/09	viruset
 AP	1/16	virusfamilien
 DB	1/21	familien
 AP	1/21	virusutbruddet
@@ -13,12 +12,9 @@ AP	1/25	pasienter
 VG	1/25	smittede
 DN	1/27	virusutbrudd
 DB	1/28	fast
-VG	1/28	virusets
 VG	1/29	virussmitte
 VG	1/30	smitten
-DN	1/30	virusen
 AA	1/31	merket
-AP	1/31	virusene
 VG	1/31	virussmittede
 VG	2/01	spredning
 VG	2/02	dødsfall
@@ -82,7 +78,6 @@ BT	2/27	spørsmål
 DB	2/27	sykdom
 BT	2/27	syke
 DN	2/27	utstyr
-AA	2/27	virusepidemi
 BT	2/27	virushar
 DA	2/27	virussykdommen
 NL	2/28	dekning
@@ -133,7 +128,6 @@ DB	3/02	svindlere
 BT	3/02	telefonen
 NL	3/02	testes
 BT	3/02	testet
-DN	3/02	viruseffekten
 DB	3/02	viruskontrollører
 AP	3/03	behandling
 DN	3/03	effekten
@@ -371,6 +365,7 @@ SA	3/14	solidaritet
 VG	3/14	spøk
 DA	3/14	støvet
 SA	3/14	tiden
+DB	3/14	virusepidemi
 SA	3/14	virusfaste
 VG	3/15	bekreftelsen
 NL	3/15	byks
@@ -573,7 +568,6 @@ DB	3/22	rammende
 AA	3/22	smittetilfellet
 AA	3/22	tiltakspakke
 AP	3/22	tilværelsen
-DB	3/22	vius
 DB	3/23	angrep
 VG	3/23	astrid
 AA	3/23	bekjempelsens
@@ -773,7 +767,6 @@ VG	3/31	testede
 DB	3/31	testfeil
 DA	3/31	tiltakutvalget
 DA	3/31	titak
-DN	3/31	viorusutbruddet
 DB	4/01	avdeling
 VG	4/01	bøter
 DB	4/01	challenge
@@ -828,7 +821,6 @@ AP	4/02	tiltakenes
 DB	4/02	turnering
 DA	4/02	tv
 SA	4/02	virusbærere
-AA	4/03	/covid19situasjonen
 AA	4/03	behovet
 AP	4/03	benker
 DA	4/03	borger
@@ -850,8 +842,6 @@ SA	4/03	spreding
 AA	4/03	stans
 DA	4/03	teststasjonen
 DA	4/03	vett
-DA	4/03	viruser
-AP	4/04	17
 VG	4/04	avdelingene
 BT	4/04	bølgen
 AP	4/04	dikt
@@ -933,7 +923,6 @@ BT	4/09	feit
 VG	4/09	fest
 AA	4/09	generasjonen
 VG	4/09	innstengt
-DA	4/09	kortidsplassene
 SA	4/09	nedstengningene
 AA	4/09	redningspakke
 DB	4/09	rullingkonsertene
@@ -1027,7 +1016,6 @@ AP	4/17	tillegg
 SA	4/17	tomme
 DB	4/17	vennlig
 DA	4/17	virusdødsfallet
-VG	4/17	virusert
 DB	4/18	bølger
 NL	4/18	ekspertene
 AP	4/18	frustrasjon
@@ -1092,7 +1080,6 @@ AA	4/22	kroner
 BT	4/22	laboratoriet
 VG	4/22	nordmann
 DA	4/22	tanker
-VG	4/22	utviiklingen
 AA	4/22	vaksineres
 DN	4/22	vinner
 DN	4/22	vinneren
@@ -1112,8 +1099,6 @@ NL	4/23	strandet
 AA	4/23	svindlet
 DA	4/23	tilpassede
 SA	4/23	vekst
-AP	4/23	viruses
-SA	4/23	virust
 DB	4/24	antistoffene
 BT	4/24	behandlinger
 AA	4/24	dragsuget
@@ -1132,7 +1117,6 @@ VG	4/24	teori
 DA	4/24	tilstandene
 BT	4/24	topp
 DA	4/24	tradisjon
-DB	4/24	vciruset
 VG	4/24	venn
 AA	4/24	venting
 NL	4/24	virussvar
@@ -1173,7 +1157,6 @@ SA	4/27	stormen
 DA	4/27	uløkka
 VG	4/27	veilederen
 VG	4/27	venner
-NL	4/27	viruset?
 AA	4/28	forbindelse
 VG	4/28	overlevende
 DB	4/28	tunnelen
@@ -1297,7 +1280,6 @@ DA	5/09	virusforskere
 SA	5/09	virusoversikt
 NL	5/10	berørte
 VG	5/10	comeback
-DA	5/10	epdemien
 AA	5/10	handlingsregel
 VG	5/10	målsetting
 VG	5/10	målsettingen
