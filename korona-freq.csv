@@ -1,3 +1,4 @@
+14481 viruset
 4161 krisen
 2204 smitte
 2031 virus
@@ -18,6 +19,7 @@
  231 tider
  196 karantene
  173 loven
+ 162 virusets
  154 virusutbruddet
  132 krise
  126 tilfeller
@@ -56,6 +58,7 @@
   38 rammet
   38 informasjon
   37 grep
+  36 virusepidemien
   36 telefon
   35 lov
   34 teste
@@ -96,7 +99,6 @@
   17 tida
   17 effekt
   17 dugnaden
-  16 virusepidemien
   16 vaksinen
   16 tilfellene
   16 pandemi
@@ -226,6 +228,9 @@
    6 alarmen
    5 virustilfeller
    5 viruspasienter
+   5 viruser
+   5 virusepidemi
+   5 virusene
    5 vett
    5 utvalg
    5 utsettelsene
@@ -341,6 +346,7 @@
    3 virussmitten
    3 virusmøte
    3 virushar
+   3 viruseffekten
    3 virusbeskyttelse
    3 vaksiner
    3 utstyr
@@ -450,7 +456,7 @@
    2 viruskarantene
    2 virusinfeksjonen
    2 virusfrykt
-   2 virusepidemi
+   2 viruses
    2 vinner
    2 vesenet
    2 verstingen
@@ -687,7 +693,9 @@
    1 virusferien
    1 virusfaste
    1 viruseumøter
+   1 virusert
    1 virusepidemier
+   1 virusen
    1 viruseffekt
    1 virusdødsfallet
    1 virusdrevne
@@ -1080,7 +1088,6 @@
    1 kjefting
    1 kjeft
    1 kisen
-   1 kerisen
    1 katt
    1 kasser
    1 kartlegging
