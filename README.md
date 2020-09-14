@@ -5,7 +5,7 @@ Analysis of corona compounds from the Norwegian Newspaper Corpus. These files ac
 
 *korona-freq.csv* = frequency list of items, ordered by decreasing frequency
 
-*korona-compounds.csv* = new types by date of first occurrence, also including source
+*korona-compounds.csv* = types by date of first occurrence, also including source
 
 These character separated files have TAB as field separator.
 
