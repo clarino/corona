@@ -1,12 +1,17 @@
 # corona
-Analysis of corona compounds from the Norwegian Newspaper Corpus. These files accompany the CLARIN 2020 presentation entitled *Contagious “corona” compounding in a CLARIN newspaper monitor corpus* by Koenraad De Smedt.
+Analysis of corona compounds from the Norwegian Newspaper Corpus.
 
-## The main result data files are the following:
+Items occurring as the second part of compounds starting with *corona* or *korona*.
+These initial parts and possible hyphens have been stripped.
+All items have been case-folded by downcasing.
+
+This updated version is based on materials from CLARINO Corpuscle that cover the period from January 1 until May
+26, 2020.
+
+## Files:
 
 *korona-freq.csv* = frequency list of items, ordered by decreasing frequency
 
 *korona-compounds.csv* = types by date of first occurrence, also including source
 
 These character separated files have TAB as field separator.
-
-The items in these lists are types occurring as final parts of compounds; in other words, the initial part corona/korona and possible hyphens have been stripped from the compounds before processing.
