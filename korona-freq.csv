@@ -1,742 +1,1065 @@
-14481 viruset
-4161 krisen
-2204 smitte
-2031 virus
-1634 pandemien
-1020 utbruddet
- 934 smittede
- 810 situasjonen
- 688 epidemien
- 634 smittet
- 632 dødsfall
- 480 pasienter
- 451 tiltakene
- 409 tiltak
- 330 smitten
- 316 relaterte
- 293 krisa
- 234 syke
- 231 tider
- 196 karantene
- 173 loven
- 162 virusets
- 154 virusutbruddet
- 132 krise
- 126 tilfeller
- 119 rammede
-  98 fast
-  93 strategi
-  91 test
-  84 utbrudd
-  84 tiden
-  83 vaksine
-  82 podden
-  81 viruspandemien
-  79 stengt
-  77 tester
-  72 testing
-  72 regler
-  67 dødsfallet
-  66 syk
-  66 pasientene
-  64 restriksjoner
-  63 restriksjonene
-  59 sykdom
-  57 symptomer
-  56 reglene
-  55 stengte
-  55 frykt
-  53 døde
-  50 telefonen
-  50 pasient
-  48 virussituasjonen
-  47 virussmitte
-  46 dødsfallene
-  43 frykten
-  42 spredning
-  39 relatert
-  38 rammet
-  38 informasjon
-  37 grep
-  36 virusepidemien
-  36 telefon
-  35 lov
-  34 teste
-  34 råd
-  34 hjelp
-  33 tilfelle
-  32 nyheter
-  31 spørsmål
-  31 monitor
-  31 krisens
-  28 virussykdom
-  27 trusselen
-  25 testet
-  25 prøver
-  25 pausen
-  25 håndtering
-  25 faste
-  25 beredskap
-  24 virusinfeksjon
-  23 effekten
-  22 studie
-  22 spredningen
-  22 perioden
-  22 infeksjon
-  21 vettregler
-  21 støtte
-  21 epidemi
-  20 viruskrisen
-  20 testen
-  20 svar
-  19 sykdommen
-  19 krisepakke
-  19 isolasjon
-  18 tid
-  18 sykehus
-  18 legevakten
-  18 komiteen
-  17 tida
-  17 effekt
-  17 dugnaden
-  16 vaksinen
-  16 tilfellene
-  16 pandemi
-  16 kritikk
-  16 kampen
-  15 virusfamilien
-  15 strategien
-  15 situasjon
-  15 pasienten
-  15 klinikken
-  15 hverdagen
-  15 faren
-  15 dugnad
-  14 virusutbrudd
-  14 tidene
-  14 testes
-  14 smell
-  14 sjokket
-  14 mistanke
-  14 klinikk
-  14 håndteringen
-  13 testene
-  13 tallene
-  13 medisin
-  13 karantenen
-  13 beredskapen
-  12 virussmittede
-  12 testingen
-  12 svindel
-  12 rådene
-  12 innlagte
-  12 hjelpen
-  12 fritt
-  12 fri
-  11 vettreglene
-  11 tall
-  11 rapport
-  11 plan
-  11 offer
-  11 obligasjoner
-  10 tap
-  10 spesial
-  10 positive
-  10 nedstengningen
-  10 medisiner
-  10 krisepakken
-  10 kompensasjon
-  10 kommisjonen
-  10 katastrofen
-  10 angst
-   9 virustester
-   9 tilfellet
-   9 tabbe
-   9 sjokk
-   9 saker
-   9 permitterte
-   9 pause
-   9 kø
-   9 krakket
-   9 komité
-   9 frie
-   9 forskning
-   9 episenter
-   9 dødstall
-   9 debatten
-   9 avlyst
-   9 alarm
-   8 virusrelatert
-   8 utviklingen
-   8 utsatte
-   8 trening
-   8 stenging
-   8 prøve
-   8 pressekonferanse
-   8 politikk
-   8 penger
-   8 pakke
-   8 kaos
-   8 general
-   8 fond
-   8 bestemmelsene
-   7 trøbbel
-   7 tjeneste
-   7 tilværelsen
-   7 tilstander
-   7 symptomene
-   7 sveisen
-   7 stengingen
-   7 skatt
-   7 risikoen
-   7 retningslinjer
-   7 raseri
-   7 permittert
-   7 pandemiens
-   7 ofre
-   7 møte
+27563 viruset
+8612 krisen
+3967 smitte
+3631 pandemien
+3406 virus
+1955 utbruddet
+1693 situasjonen
+1618 smittede
+1299 epidemien
+1151 smittet
+1014 dødsfall
+ 936 tiltakene
+ 892 pasienter
+ 688 tiltak
+ 645 smitten
+ 621 relaterte
+ 573 krisa
+ 504 tider
+ 425 syke
+ 334 karantene
+ 326 virusets
+ 308 virusutbruddet
+ 296 loven
+ 256 tilfeller
+ 252 krise
+ 222 tiden
+ 214 rammede
+ 192 viruspandemien
+ 185 vaksine
+ 181 regler
+ 177 fast
+ 173 strategi
+ 167 pausen
+ 163 stengt
+ 159 test
+ 154 tester
+ 143 utbrudd
+ 143 podden
+ 142 reglene
+ 138 restriksjonene
+ 134 restriksjoner
+ 133 syk
+ 126 pasientene
+ 123 testing
+ 121 dødsfallet
+ 112 sykdom
+ 103 stengte
+  96 symptomer
+  91 virussmitte
+  90 telefonen
+  89 frykt
+  86 pasient
+  85 virussituasjonen
+  81 døde
+  74 relatert
+  73 råd
+  71 rammet
+  71 dødsfallene
+  67 spredning
+  67 perioden
+  66 virusepidemien
+  66 nyheter
+  66 monitor
+  65 frykten
+  64 grep
+  59 viruskrisen
+  58 støtte
+  58 lov
+  56 informasjon
+  55 telefon
+  51 effekten
+  50 testet
+  49 vettregler
+  48 tilfelle
+  48 faste
+  47 virussykdom
+  47 krisens
+  47 håndtering
+  46 isolasjon
+  46 hjelp
+  45 trusselen
+  45 spørsmål
+  44 trening
+  44 epidemi
+  43 virusinfeksjon
+  42 teste
+  42 spredningen
+  41 sykdommen
+  39 prøver
+  38 testen
+  37 krisepakke
+  35 sykehus
+  35 studie
+  35 pandemi
+  35 komiteen
+  34 tida
+  34 infeksjon
+  33 tidene
+  33 smell
+  33 medisin
+  32 strategien
+  32 pandemiens
+  32 hverdagen
+  31 tallene
+  31 karantenen
+  31 kampen
+  31 beredskap
+  30 virusutbrudd
+  30 mistanke
+  29 tid
+  29 testene
+  29 pressekonferanse
+  29 pause
+  29 effekt
+  28 svar
+  28 permitterte
+  28 faren
+  28 dugnaden
+  27 kritikk
+  27 håndteringen
+  26 situasjon
+  25 viruspasienter
+  25 tilfellene
+  25 fri
+  24 tap
+  24 plan
+  24 legevakten
+  24 dugnad
+  23 vaksiner
+  23 testes
+  22 kompensasjon
+  22 innleggelser
+  22 frie
+  21 virussmittede
+  21 vettreglene
+  21 vaksinen
+  21 tall
+  21 sjokket
+  21 ofre
+  21 nedstengningen
+  21 krisepakken
+  21 klinikken
+  20 virusfamilien
+  20 debatten
+  19 virustester
+  19 utsettelsene
+  19 utsatte
+  19 svindel
+  19 spesial
+  19 rådene
+  19 pasienten
+  19 oversikt
+  19 offer
+  19 bølge
+  19 beredskapen
+  18 virusrelatert
+  18 tilfellet
+  18 testingen
+  18 skatt
+  18 saker
+  18 permittert
+  18 penger
+  18 møte
+  18 kommisjonen
+  18 kaos
+  18 forskning
+  17 smellen
+  17 rapport
+  17 prøve
+  17 innlagte
+  17 hjelpen
+  17 fritt
+  16 utfordringer
+  16 symptomene
+  16 lockdown
+  16 kø
+  16 kroppen
+  16 klinikk
+  16 fond
+  16 dødstall
+  15 tjeneste
+  15 tabbe
+  15 stenging
+  15 regning
+  15 obligasjoner
+  15 krakket
+  15 konsekvensene
+  15 komité
+  15 kaoset
+  15 forbudet
+  15 bestemmelsene
+  15 avlyst
+  14 trøbbel
+  14 tilpassede
+  14 stengingen
+  14 statistikken
+  14 respons
+  14 katastrofen
+  14 episenter
+  13 tilskudd
+  13 stengningen
+  13 raseri
+  13 positive
+  13 kriminalitet
+  13 krigen
+  13 konkurs
+  13 dødelighet
+  13 alarm
+  12 utviklingen
+  12 stille
+  12 skolen
+  12 sjokk
+  12 ofrene
+  12 lovens
+  12 isolasjonen
+  12 behandling
+  12 baren
+  12 angst
+  11 virusvaksine
+  11 virussymptomer
+  11 virusene
+  11 senter
+  11 problemet
+  11 medisiner
+  11 livet
+  11 kartet
+  11 kart
+  11 innlagt
+  11 gruppe
+  11 forslag
+  11 fester
+  11 epidemiens
+  10 våren
+  10 utgifter
+  10 tilværelsen
+  10 tilstander
+  10 studien
+  10 stopp
+  10 sending
+  10 risikoen
+  10 retningslinjer
+  10 regningen
+  10 millioner
+  10 kriselov
+  10 krisefond
+  10 kommisjon
+  10 innsatsen
+  10 dødsrate
+  10 dvale
+  10 demonstrasjoner
+  10 bekymrede
+  10 bekjempelse
+  10 avlysning
+   9 vett
+   9 veileder
+   9 utstyr
+   9 unntak
+   9 sveisen
+   9 stansen
+   9 rapporter
+   9 politikk
+   9 permitteringer
+   9 pakke
+   9 liv
+   9 konferanse
+   9 kobling
+   9 innleggelse
+   9 informasjonen
+   9 handling
+   9 general
+   9 forskningen
+   9 epedemien
+   9 dødstallene
+   9 bølgen
+   9 budsjett
+   8 virusspredningen
+   8 virussmitten
+   8 utsatt
+   8 ukene
+   8 sms
+   8 prøven
+   8 pregede
+   8 politi
+   8 opplæring
+   8 manøver
+   8 lignende
+   8 kroner
+   8 krisefondet
+   8 isolert
+   8 isolat
+   8 inspektører
+   8 fare
+   8 diagnose
+   8 dagene
+   8 avstand
+   8 app
+   8 alarmen
+   8 advarsler
+   7 virustilfeller
+   7 virussykdommen
+   7 viruser
+   7 utvalg
+   7 tilpasset
+   7 tidens
+   7 sykehjem
+   7 strategier
+   7 stengning
+   7 rasisme
+   7 protester
+   7 profitører
+   7 pilene
+   7 panikken
+   7 panikk
+   7 nytt
+   7 nedturen
    7 musikal
-   7 millioner
-   7 lockdown
-   7 krisefond
-   7 kriminalitet
-   7 kommisjon
-   7 kartet
-   7 innleggelser
-   7 forslag
-   7 forbudet
-   7 bekymrede
-   6 virussykdommen
-   6 utfordringer
-   6 ukene
-   6 stengningen
-   6 smellen
-   6 lovens
-   6 livet
-   6 ledige
-   6 kroppen
-   6 kriselov
-   6 isolert
-   6 innsats
-   6 innlagt
-   6 info
-   6 handling
-   6 forskningen
-   6 fester
-   6 epidemiens
-   6 avlysning
-   6 alarmen
-   5 virustilfeller
-   5 viruspasienter
-   5 viruser
+   7 mareritt
+   7 låta
+   7 ledige
+   7 konsekvenser
+   7 konkurser
+   7 katastrofe
+   7 innsats
+   7 innleggelsene
+   7 info
+   7 infisert
+   7 infeksjonen
+   7 grepet
+   7 ferie
+   7 fase
+   7 dødstallet
+   7 døden
+   7 dødeligheten
+   7 dokument
+   7 cruiset
+   7 avlyste
+   7 appen
+   6 året
+   6 virusreglene
+   6 virusprøver
+   6 virusfrykt
+   6 viruseffekten
+   6 virusdødsfall
+   6 vennlig
+   6 vedtak
+   6 uttalelser
+   6 undersøkelse
+   6 tunnelen
+   6 trollet
+   6 tillegg
+   6 telt
+   6 sykehuset
+   6 strid
+   6 status
+   6 slurv
+   6 skole
+   6 senteret
+   6 retorikken
+   6 responsen
+   6 reise
+   6 problemene
+   6 pressekonferansen
+   6 løsning
+   6 land
+   6 kutt
+   6 kur
+   6 knuter
+   6 klausul
+   6 gruppen
+   6 gransking
+   6 generasjonen
+   6 fravær
+   6 forskriftene
+   6 forskriften
+   6 eksil
+   6 dager
+   6 avdeling
+   6 arbeidet
+   6 analyser
+   5 virustiltak
+   5 virustest
+   5 virusrutiner
+   5 virushar
    5 virusepidemi
-   5 virusene
-   5 vett
-   5 utvalg
-   5 utsettelsene
-   5 utsatt
-   5 tilskudd
+   5 tørke
+   5 topp
+   5 teamets
+   5 tabber
    5 svindlere
-   5 studien
-   5 stopp
-   5 statistikken
-   5 retorikken
-   5 regning
-   5 profitører
-   5 politi
-   5 pilene
-   5 panikken
-   5 panikk
+   5 støtten
+   5 studio
+   5 straff
+   5 stenger
+   5 statusen
+   5 smitteanbefalingene
+   5 smitta
+   5 sikker
+   5 scenarioer
+   5 sang
+   5 sammenheng
+   5 rabatt
+   5 påsken
+   5 påske
+   5 pågangen
+   5 pengene
+   5 pakken
+   5 oppdateringer
+   5 oppdateringene
+   5 nødhjelp
+   5 nyhetene
    5 nummer
-   5 manøver
-   5 løsning
-   5 liv
-   5 krigen
-   5 konsekvenser
-   5 konsekvensene
-   5 konkurser
-   5 konferanse
-   5 kart
-   5 kaoset
-   5 isolasjonen
-   5 innsatsen
+   5 mørket
+   5 mottak
+   5 legevakt
+   5 kriserammede
+   5 krisepakkene
+   5 krisas
+   5 konkurranser
+   5 kommisjonens
    5 infiserte
-   5 gruppe
-   5 forskriftene
-   5 fare
+   5 immunitet
+   5 hjemmet
+   5 historien
+   5 heltene
+   5 frisk
+   5 forskrifter
    5 familien
-   5 epedemien
-   5 dødstallet
-   5 dødstallene
-   5 dødelighet
-   5 dvale
+   5 episenteret
+   5 endringer
+   5 eksperter
+   5 ekspert
+   5 død
+   5 dilemma
    5 dikt
-   5 dagene
-   5 bølge
-   5 bekjempelse
-   5 behandling
-   5 baren
+   5 dekning
+   5 budskap
+   5 brems
+   5 bekymret
+   5 avstanden
+   5 avfall
    5 avdelinger
-   5 app
-   4 våren
-   4 virusprøver
-   4 virusdødsfall
+   5 autoritet
+   5 advarslene
+   4 økonomien
+   4 virusvaksiner
+   4 virustesten
+   4 virussituasjon
+   4 virusrestriksjonene
+   4 viruspasient
+   4 virusofrene
+   4 virusfrykten
+   4 virkningene
+   4 vesenet
    4 vennlige
-   4 veileder
-   4 uttalelser
-   4 unntak
-   4 tilpasset
-   4 telt
-   4 sykehuset
-   4 sykehjem
-   4 støtten
-   4 stengning
-   4 status
+   4 varslerne
+   4 utbruddets
+   4 underskudd
+   4 tåken
+   4 telefoner
+   4 team
+   4 tapene
+   4 tabu
+   4 svindlet
+   4 sveis
+   4 stenge
+   4 spøkelset
+   4 smittesenteret
    4 smittes
-   4 smitta
-   4 skolen
-   4 senteret
-   4 senter
-   4 sending
-   4 sammenheng
-   4 responsen
-   4 respons
-   4 regningen
+   4 smitterestriksjon
+   4 smittebombe
+   4 skrekken
+   4 saken
+   4 sak
+   4 reglementet
+   4 raset
    4 rapportene
-   4 påsken
-   4 permitteringer
+   4 påvirket
+   4 prøvesvar
+   4 protein
+   4 produkter
+   4 pressekonferanser
+   4 preget
+   4 positiv
+   4 politikken
+   4 plager
+   4 permittering
+   4 pass
    4 oppdrag
-   4 ofrene
-   4 nytt
+   4 oppdatering
+   4 nedstengning
+   4 moralen
    4 minner
-   4 mareritt
+   4 milliarder
+   4 medisinen
+   4 marerittet
    4 linjene
-   4 land
    4 laboratoriet
-   4 kutt
-   4 kur
-   4 kroner
-   4 konkurs
-   4 kobling
+   4 kurven
+   4 kritikken
+   4 krisetiden
+   4 kriseloven
+   4 krav
+   4 krasjen
+   4 kostnader
+   4 konserter
+   4 konsert
+   4 konflikt
+   4 koden
    4 knekken
-   4 katastrofe
-   4 isolat
-   4 inspektører
-   4 innleggelse
-   4 informasjonen
-   4 hjemmet
+   4 karantener
+   4 kampens
+   4 kamp
+   4 isoleringen
+   4 infeksjoner
+   4 immune
+   4 hverdag
    4 herjede
-   4 grepet
-   4 gransking
-   4 generasjonen
-   4 forskriften
-   4 fase
-   4 eksperter
-   4 dødsrate
-   4 døden
-   4 dødeligheten
+   4 helvetet
+   4 helvete
+   4 gåten
+   4 gruppa
+   4 gjennombrudd
+   4 forbehold
+   4 fondet
+   4 fest
+   4 feiret
+   4 fall
+   4 effekter
+   4 effektene
+   4 drama
    4 diktatur
-   4 dager
-   4 cruiset
-   4 appen
-   3 virustiltak
-   3 virustesten
-   3 virussymptomer
-   3 virusspredningen
-   3 virussmitten
+   4 diagnosen
+   4 demonstrasjonene
+   4 dekningen
+   4 dagbok
+   4 budsjettet
+   4 bot
+   4 bilder
+   4 beskjed
+   4 behandlinger
+   4 avstengt
+   4 avlysningene
+   4 avgjørelsene
+   3 vårens
+   3 virustilfelle
+   3 virusprøve
+   3 viruspandemi
    3 virusmøte
-   3 virushar
-   3 viruseffekten
+   3 viruses
+   3 virusepidemier
    3 virusbeskyttelse
-   3 vaksiner
-   3 utstyr
+   3 vinner
+   3 verstingen
+   3 vent
+   3 venner
+   3 venn
+   3 vekst
+   3 utvalgets
+   3 utvalget
    3 utspill
-   3 utgifter
+   3 utgaven
+   3 utfordringene
    3 uroen
-   3 undersøkelse
-   3 underskudd
+   3 unntakstilstanden
    3 uke
-   3 tørke
-   3 tunnelen
+   3 tv
    3 tsar
    3 truet
-   3 tillegg
-   3 telefoner
-   3 teamets
-   3 team
-   3 tabu
-   3 svindlet
-   3 studio
+   3 trenden
+   3 tiltakspakke
+   3 tiltakenes
+   3 teststasjonen
+   3 teori
    3 studier
-   3 strid
-   3 strategier
-   3 stenger
+   3 stoff
+   3 stipend
+   3 stenginga
+   3 statistikk
+   3 språket
+   3 spesifikke
    3 solidaritet
-   3 smittebombe
+   3 smittete
+   3 smittespredning
+   3 smittens
+   3 smittende
+   3 smittefaren
+   3 smittefare
+   3 smittedes
    3 skandale
    3 sjekk
-   3 scenarioer
+   3 sjefen
+   3 sendingene
+   3 sakene
    3 rom
-   3 reise
+   3 resultat
+   3 reglar
    3 regimet
-   3 rabatt
-   3 påske
+   3 regime
+   3 pågang
+   3 punktene
    3 prøvene
-   3 prøven
-   3 protester
-   3 problemet
-   3 problemene
+   3 prosjekt
    3 posten
-   3 positiv
-   3 politikken
+   3 planene
+   3 planen
    3 permittere
-   3 pass
-   3 oversikt
-   3 oppdateringene
-   3 oppdatering
-   3 nedstengning
-   3 mottak
-   3 milliarder
-   3 medisinen
-   3 marerittet
+   3 pappa.no
+   3 overkjøre
+   3 ord
+   3 optimisme
+   3 oppmykninger
+   3 nedstengt
+   3 nedstengningene
+   3 nedstengingen
+   3 melding
+   3 løslatte
+   3 låt
    3 låst
-   3 lignende
-   3 legevakt
-   3 kurven
-   3 krisepakkene
-   3 kriseloven
-   3 klausul
-   3 innleggelsene
-   3 infisert
-   3 infeksjoner
-   3 immunitet
-   3 hverdag
+   3 lån
+   3 lockdownen
+   3 linjen
+   3 ledighet
+   3 lanseres
+   3 kunst
+   3 kristen
+   3 krisetiltak
+   3 krigens
+   3 kontroll
+   3 kontraster
+   3 kontor
+   3 konkursene
+   3 kommentar
+   3 klem
+   3 karanteneregler
+   3 kansellerte
+   3 joggerskammen
+   3 inspeksjoner
+   3 innleggelsen
+   3 håp
+   3 håndteringa
+   3 hull
+   3 henvendelser
+   3 hensyn
+   3 handles
    3 hamstring
-   3 gruppen
    3 grepene
-   3 gjennombrudd
+   3 greiene
    3 gebyr
+   3 funn
+   3 fullmakter
    3 frustrasjon
-   3 frisk
-   3 fravær
+   3 forvirring
    3 fortellingene
+   3 forskrift
+   3 forskjeller
    3 forelegg
-   3 fall
+   3 forebyggende
+   3 forbud
+   3 flukt
+   3 fasen
    3 epidimien
-   3 endringer
-   3 død
+   3 epidemier
+   3 eksponert
+   3 ekspertene
+   3 dødstallnivå
+   3 dragsuget
    3 diskusjon
-   3 dilemma
    3 diagnostikk
-   3 diagnose
+   3 dans
+   3 bøter
    3 bønn
-   3 bølgen
-   3 budskap
-   3 avstengt
-   3 avstand
-   3 avlyste
+   3 boten
+   3 bok
+   3 blinde
+   3 beskjeden
+   3 begrensninger
+   3 barometer
    3 avlysninger
-   3 avdeling
-   3 autoritet
-   3 arbeidet
-   3 advarslene
+   3 avdelingen
+   3 avbruddet
+   3 avbestillinger
+   3 arbeidere
+   3 anslag
+   3 angsten
+   2 øvelse
    2 ølet
-   2 økonomien
+   2 åpning
+   2 viuset
    2 vits
-   2 virusvaksiner
-   2 virusvaksine
+   2 vis
+   2 virusykdom
+   2 virusutløst
    2 virustrusselen
-   2 virustilfelle
-   2 virustest
+   2 virustider
+   2 virustallene
+   2 virussyke
+   2 virusstrategi
+   2 virusspesial
+   2 virussmittet
+   2 virusrisiko
    2 virusrelaterte
    2 virusregler
-   2 virusreglene
    2 virusrammede
-   2 viruspasient
+   2 viruskrisa
    2 viruskarantene
+   2 virusinfeksjoner
    2 virusinfeksjonen
-   2 virusfrykt
-   2 viruses
-   2 vinner
-   2 vesenet
-   2 verstingen
+   2 virusgruppe
+   2 virusfaste
+   2 virusfast
+   2 virusepidemiene
+   2 virusdata
+   2 viruet
+   2 villrede
    2 versjon
    2 vern
-   2 vent
-   2 vennlig
-   2 venn
-   2 vekst
-   2 vedtak
-   2 varslerne
+   2 verdenen
+   2 venting
+   2 veilederen
+   2 varsel
+   2 vakten
+   2 vakt
    2 vaksineres
-   2 utvalget
+   2 vaksinene
+   2 uttalelsene
    2 utsettelse
    2 utrykninger
-   2 utbruddets
+   2 utmattet
+   2 utløste
+   2 unntakstilstand
+   2 uker
    2 tåka
    2 tyngede
-   2 tv
-   2 trollet
-   2 trenden
+   2 trygge
+   2 trygg
+   2 trussel
+   2 treninger
    2 trend
+   2 transport
    2 toppen
-   2 topp
-   2 tiltakspakke
-   2 tiltakenes
-   2 tidens
-   2 teststasjonen
-   2 tapene
+   2 tegninger
+   2 tapet
+   2 søk
+   2 syken
+   2 suksess
    2 stunt
-   2 straff
-   2 stoff
-   2 stipend
-   2 stille
-   2 stenginga
-   2 stenge
-   2 statistikk
-   2 stansen
+   2 studien.no
+   2 strandede
+   2 straffene
+   2 stormen
+   2 stengninger
+   2 stemning
+   2 statsråder
+   2 stanset
+   2 stanser
+   2 spørsmålet
    2 spøk
-   2 språket
-   2 spesifikke
-   2 sms
    2 smittetiltak
    2 smittetilfeller
-   2 smittete
    2 smittetallene
-   2 smittesenteret
-   2 smittefare
-   2 skole
+   2 smittetall
+   2 smittesituasjonen
+   2 smitteråd
+   2 slagmarken
+   2 slaget
+   2 skvis
+   2 skilsmisser
+   2 skatten
+   2 sjekket
+   2 sjef
    2 sjanse
    2 sitasjonen
-   2 sendingene
-   2 sang
+   2 siden
+   2 risiko
+   2 retningslinjene
+   2 reseptor
+   2 reportasjer
+   2 rente
    2 rekord
-   2 reglar
-   2 regime
-   2 rasisme
-   2 raset
-   2 påvirket
-   2 pågang
-   2 prøvesvar
+   2 reglement
+   2 reglane
+   2 redsel
+   2 protokoll
+   2 protestene
    2 protest
-   2 protein
-   2 produkter
-   2 pressekonferanser
-   2 pressekonferansen
-   2 preget
+   2 profittering
+   2 problemer
+   2 praksis
    2 positivt
-   2 planene
-   2 plager
-   2 permittering
+   2 politiet
+   2 podkast
+   2 planer
+   2 perspektiv
    2 permisjon
    2 patienter
+   2 party
+   2 parkerte
+   2 parkert
+   2 pandemiutbruddet
    2 pakker
-   2 pakken
-   2 overkjøre
-   2 ord
-   2 optimisme
-   2 oppmykninger
-   2 oppdateringer
+   2 pademien
+   2 orienteringen
+   2 ordning
+   2 opptur
+   2 oppsving
+   2 oppgjør
+   2 oppfordring
    2 områder
-   2 nødhjelp
-   2 nyhetene
+   2 offeret
    2 norsk
-   2 nedturen
-   2 nedstengingen
+   2 norge
    2 navere
-   2 mørket
+   2 mørketall
+   2 måneden
    2 myte
+   2 muren
    2 mottaket
-   2 moralen
+   2 modus
    2 millionene
+   2 milliardene
+   2 midlene
    2 meninger
-   2 låt
+   2 markedsføring
    2 lyspunkt
+   2 lunger
+   2 lungebetennelse
    2 lover
    2 lovene
    2 lovbrudd
-   2 lockdownen
-   2 linjen
    2 linje
    2 liknende
-   2 kunst
-   2 kritikken
-   2 krisetiden
-   2 krisas
+   2 lettelser
+   2 lekevenner
+   2 lekekameratene
+   2 lederskap
+   2 kropp
+   2 krisetiltakene
+   2 kriser
+   2 krisehjelp
    2 kriminelle
-   2 krigens
-   2 kostnader
+   2 krangel
+   2 kos
+   2 kortfilm
+   2 kortet
    2 koret
-   2 kontraster
-   2 konserter
-   2 konsert
-   2 konkursene
+   2 kontrollen
+   2 kontantstøtten
+   2 konsekvens
    2 konferansen
    2 kompensasjonen
-   2 kommisjonens
-   2 koden
+   2 kommuner
    2 knute
+   2 klippen
    2 klinikker
-   2 klem
    2 klarsignal
-   2 kansellerte
+   2 kjeft
+   2 karteller
    2 kanselleringer
-   2 kampens
-   2 kamp
-   2 joggerskammen
-   2 inspeksjoner
-   2 innleggelsen
+   2 kabalen
+   2 jus
+   2 jobbingen
+   2 isolerte
+   2 innsatsgruppe
+   2 innrykket
+   2 influenserne
    2 influensere
    2 influenser
-   2 immune
+   2 influensaen
+   2 høring
    2 hår
-   2 håp
    2 hysteri
    2 hotell
-   2 historien
-   2 henvendelser
-   2 hensyn
-   2 helvete
-   2 heltene
+   2 hopp
+   2 hjelper
+   2 hjelpepakke
+   2 hits
+   2 hilsen
+   2 herjet
+   2 helikopter
    2 handlingsregel
-   2 handles
-   2 gåten
-   2 greiene
+   2 hamstringen
+   2 guiden
+   2 gruve
+   2 griseflaks
+   2 grense
+   2 granskning
    2 giverglede
+   2 gevinsten
+   2 generalen
+   2 gavmild
    2 garanti
-   2 fullmakter
+   2 fødestuen
+   2 fryktens
+   2 fritak
+   2 friskmeldt
    2 friske
-   2 forskrifter
-   2 forskrift
-   2 forebyggende
+   2 forsinkede
+   2 fornekter
+   2 forløp
+   2 forhandlinger
+   2 forhandlingene
    2 forbindelse
-   2 fondet
-   2 flukt
-   2 fest
-   2 ferie
+   2 forberedelser
+   2 finte
+   2 film
+   2 ferien
+   2 feit
+   2 feberen
    2 farene
    2 erfaringene
-   2 epidemier
    2 enstid
-   2 eksponert
-   2 eksil
-   2 effekter
-   2 effektene
+   2 eksponering
+   2 eksperten
+   2 ekspedisjonen
+   2 egoismen
+   2 dødfallet
+   2 drakter
    2 dom
-   2 dokument
-   2 diagnosen
-   2 dekning
+   2 do
+   2 diplomati
+   2 diktaturet
+   2 detox
+   2 detektiver
+   2 demonstranter
    2 debatt
    2 datoene
    2 date
    2 dag
+   2 bølger
    2 byks
-   2 brems
+   2 bygda
+   2 bunnen
+   2 brifingen
+   2 brif
+   2 briefing
+   2 bonus
+   2 blogger
    2 blod
+   2 blemme
+   2 bildet
    2 bestemor
-   2 beskjeden
+   2 berørte
    2 bekjempelsens
-   2 begrensninger
-   2 barometer
+   2 bekjempelsen
    2 barnehage
-   2 avlysningene
-   2 avgjørelsene
-   2 avfall
-   2 avbestillinger
-   2 angsten
-   2 analyser
-   2 advarsler
-   1 øvelse
-   1 året
+   2 asyl
+   2 arbeidslivet
+   2 arbeidsdagen
+   2 arbeiderne
+   2 antistoffer
+   2 ansvarlig
+   2 annonser
+   2 adferd
    1 åpningstider
-   1 åpning
-   1 vårens
+   1 vrus
    1 viurset
    1 vitsene
-   1 vis
+   1 virusvideoer
    1 virusvekst
+   1 virusvaksinene
+   1 virusvaksinen
+   1 virusutspill
+   1 virusutbruddene
+   1 viruståka
    1 virustyper
    1 virustrenden
    1 virustoppen
    1 virustilfellene
-   1 virustider
    1 virustema
+   1 virustelt
+   1 virustelefon
    1 virustap
-   1 virussyke
    1 virussykdom2
    1 virussvar
    1 virusspøk
-   1 virusspesial
+   1 virusspredning
    1 virussmittetallene
-   1 virussmittet
-   1 virussituasjon
-   1 virusrutiner
-   1 virusrestriksjonene
+   1 virussmell
+   1 virusscenarioet
+   1 virusrespons
    1 virusrasisme
    1 virusrapport
    1 viruspanikken
    1 viruspandemiens
-   1 viruspandemi
    1 virusoversikt
    1 virusoppdateringer
+   1 virusområdet
    1 virusmelding
    1 viruslovverk
    1 viruskostyme
+   1 viruskoordinator
    1 viruskontrollører
    1 viruskontakter
    1 viruskaoset
    1 viruskampen
    1 virusinnsats
-   1 virusfrykten
+   1 virusinfeksjonene
+   1 virushåndtering
+   1 virusforsømmelser
    1 virusforskere
    1 virusforløpet
    1 virusferien
-   1 virusfaste
    1 viruseumøter
-   1 virusert
-   1 virusepidemier
+   1 virusepidemiens
    1 virusen
+   1 virusekspertpanelet
    1 viruseffekt
    1 virusdødsfallet
    1 virusdrevne
+   1 virusdirektorat
    1 virusdiplomati
-   1 virusdata
    1 virusbærere
    1 virusbehandling
    1 virusarbeidsgruppe
    1 virusapp
    1 virusalarmen
    1 virusadvarsel
-   1 virkningene
+   1 virsuet
+   1 viros
+   1 virkninger
+   1 virkeligheten
+   1 viriuet
    1 vinnerne
    1 vinneren
    1 vinden
-   1 villrede
-   1 venting
-   1 venner
-   1 veilederen
+   1 video
+   1 vettregel
+   1 verstinger
+   1 versting
+   1 verket
+   1 vegrere
+   1 vegger
+   1 vedtakene
+   1 vaskingen
+   1 vasking
+   1 vaskiner
    1 vasken
    1 varsleren
    1 varsler
-   1 varsel
+   1 varsku
    1 valgene
-   1 vakten
-   1 vakt
-   1 vaksinene
+   1 valg
+   1 vaksinestudiene
    1 uvær
    1 uttalelse
    1 utstilling
+   1 utspillet
    1 utsettes
+   1 utsettelser
    1 utløst
-   1 utfordringene
+   1 utgiftene
    1 utfordringen
+   1 utdeling
    1 utbruddene
    1 utbredelse
    1 usikkerhet
-   1 unntakstilstanden
-   1 unntakstilstand
+   1 uro
+   1 underskuddet
    1 uløkka
-   1 tåken
+   1 tørre
+   1 tåke
+   1 tvangsreglene
    1 turnus
    1 turnering
    1 tsunamien
@@ -745,57 +1068,70 @@
    1 trøblete
    1 trøbbelet
    1 trygt
-   1 trygg
-   1 trussel
+   1 truede
+   1 trolling
    1 troll
-   1 treninger
-   1 transport
+   1 triks
+   1 treningen
+   1 trengsel
+   1 trenerne
    1 tragedie
    1 tradisjon
+   1 toppmøte
    1 tomme
+   1 tom
    1 titak
    1 timefortime
    1 tiltakutvalget
+   1 tiltaksutvalget
    1 tiltakspakken
    1 tiltaket
    1 tilstandene
    1 tilstanden
-   1 tilpassede
    1 tilpasninger
+   1 tillit
    1 tilknyttede
    1 tilbud
+   1 tiiltakene
+   1 thriller
    1 teststasjon
    1 testrestriksjoner
    1 testfeil
    1 testede
-   1 teori
    1 tema
+   1 telefonstorm
+   1 telefonoperatørene
    1 telefonene
-   1 tegninger
    1 taxier
    1 tapte
-   1 tapet
+   1 taper
    1 tanker
    1 tankene
-   1 tabber
+   1 tak
    1 søkene
-   1 søk
+   1 sårbart
+   1 synd
    1 symptom
+   1 symbol
+   1 sykmeldte
+   1 sykdommer
+   1 sykdommens
    1 sy
+   1 svindelforsøk
+   1 svindelbedrifter
    1 svikt
-   1 sveis
    1 støvet
+   1 støtteordningene
    1 støttemottakere
    1 støttemidler
    1 styret
    1 stripe
    1 striden
+   1 streik
    1 strandet
-   1 strandede
    1 straffer
-   1 straffene
-   1 stormen
    1 storm
+   1 stoppet
    1 stoppen
    1 stoler
    1 stillinger
@@ -803,231 +1139,273 @@
    1 stil
    1 stikken
    1 stenges
-   1 stemning
+   1 stempel
    1 stegningen
-   1 statusen
-   1 statsråder
-   1 stanset
-   1 stanser
+   1 statsråd
+   1 statistikker
    1 stansede
    1 stans
    1 staben
-   1 spørsmålet
+   1 spørsmålene
    1 spørretime
-   1 spøkelset
    1 spåmann
    1 spådommer
+   1 språk
    1 spreding
    1 splitt
    1 spesialer
+   1 spareråd
+   1 spapirer
    1 spagaten
    1 sommeren
+   1 sommer
+   1 snitte
    1 snakk
    1 smitteutviklingen
    1 smitteutbredelsen
    1 smittetilfellet
    1 smittetilfelle
-   1 smittetall
    1 smittested
-   1 smittespredning
-   1 smittesituasjonen
-   1 smitteråd
+   1 smittestatus
+   1 smittespredningen
+   1 smitterne
    1 smitterisiko
-   1 smitterestriksjon
    1 smittepasienter
    1 smitteområder
-   1 smittens
-   1 smittende
    1 smittejordbær
-   1 smittefaren
-   1 smittedes
    1 smittede/mistenkte
+   1 smittebølge
    1 smittebærere
    1 smittebefengte
-   1 smitteanbefalingene
    1 smitt
    1 slitne
-   1 slaget
+   1 skyer
    1 skyene
-   1 skvis
-   1 skrekken
+   1 skolehverdagen
+   1 skjebner
    1 skjebnen
-   1 skilsmisser
+   1 skille
+   1 skepsisen
    1 skandalen
    1 skader
+   1 skadde
    1 sjø
    1 sjuke
    1 sjuk
-   1 sjekket
-   1 sjefen
+   1 sjokkskadet
+   1 sjekkliste
+   1 sjekken
    1 sitte
+   1 sikres
+   1 sikrer
    1 sikre
    1 sikkert
-   1 sikker
-   1 siden
+   1 sider
    1 sesongen
    1 sertifisert
    1 serie
+   1 sentre
+   1 senskader
+   1 seng
    1 selvrapportering
+   1 selskap
+   1 selfie
    1 scenarier
    1 sannsiger
+   1 sanksjoner
    1 samtaler
    1 samtalen
    1 sammenligning
    1 sammenhengen
+   1 samlet
    1 samholdet
    1 salget
-   1 sakene
-   1 saken
-   1 sak
    1 røde
+   1 rådgiver
+   1 rådet
    1 rutinene
+   1 russen
    1 runder
    1 rullingkonsertene
    1 rulling
+   1 roman
    1 robuste
+   1 robot
+   1 risk
    1 risikogruppene
    1 risikogruppa
-   1 risiko
-   1 resultat
+   1 rikdom
+   1 revidert
    1 restriksjonenene
    1 restriksjonen
    1 resesjonen
+   1 reportasje
+   1 renter
    1 relevant
+   1 rekorder
    1 reklame
-   1 reglement
-   1 reglane
+   1 reiseråd
+   1 reguleringene
+   1 regninga
    1 regjering
    1 registrerte
+   1 regelen
+   1 refs
    1 redusert
-   1 redsel
+   1 redselen
    1 redningspakke
    1 redd
    1 ravnordning
    1 ravn
    1 rapporteringen
-   1 rapporter
    1 rammeverket
+   1 rammer
    1 rammende
    1 race
-   1 pågangen
-   1 punktene
+   1 rabatten
+   1 psykosen
    1 psykens
    1 psyken
+   1 prøvetaking
+   1 provisoriske
    1 protokoller
-   1 protokoll
-   1 protestene
+   1 protokollen
+   1 protesten
    1 prosjekter
-   1 prosjekt
-   1 profittering
+   1 profitørene
    1 produksjon
-   1 problemer
+   1 problem
+   1 priser
+   1 prisen
    1 prioriteringer
    1 prioriteringene
    1 pressetreff
+   1 pressekonferansene
    1 press
    1 presang
-   1 pregede
-   1 praksis
+   1 praten
    1 post
    1 portrett
    1 portforbud
-   1 podkast
-   1 planer
-   1 planen
+   1 pollitkken
+   1 policy
+   1 pleiere
    1 plakater
    1 pilsen
-   1 perspektiv
+   1 pidemien
    1 permitteringsregler
    1 permisjonens
    1 patent
    1 pasients
    1 pasientet
+   1 pasienters
+   1 pasiener
    1 pasenter
    1 partys
-   1 party
    1 partikler
-   1 pandemiutbruddet
+   1 panel
    1 pandemiet
    1 pandemier
    1 pandemiene
    1 overskrifter
    1 overskriftene
    1 overlevende
-   1 orienteringen
+   1 orkan
+   1 ordninger
    1 optimist
    1 oppussing
-   1 opptur
    1 opptatte
    1 oppstyret
+   1 opprør
+   1 oppmykning
    1 oppmykinger
    1 oppmuntring
    1 opplysningsteam
+   1 opplevelsene
    1 opphopningen
+   1 oppholdet
    1 oppgave
    1 oppfølging
    1 oppfordringen
    1 oppblussing
-   1 offeret
    1 obligasjon
+   1 nøkkelen
    1 nyhetsbrev
    1 nyhet
+   1 nummeret
+   1 notatet
+   1 notat
+   1 nordmenn
    1 nordmann
    1 news
+   1 nettprat
    1 nestor
+   1 nes
    1 nervøse
    1 nens
-   1 nedstengt
-   1 nedstengningene
+   1 nen
+   1 nekt
+   1 nedtur
    1 nedstenging
+   1 natta
    1 nasjonalismen
    1 møtet
+   1 møter
    1 mørketid
-   1 mørketall
-   1 måneden
+   1 måten
+   1 måneder
+   1 månedene
    1 måned
    1 målsettingen
    1 målsetting
    1 måling
    1 mysterium
    1 musikalen
-   1 muren
    1 munnbind
    1 mote
-   1 modus
    1 modellen
    1 modell
+   1 mobiliseringen
    1 mobb
+   1 mittede
    1 mistenkte
+   1 misbruket
    1 misbrukere
+   1 minsket
+   1 milloner
    1 millionen
+   1 milliard
    1 midler
+   1 metoden
+   1 messig
    1 merket
-   1 melding
+   1 meldinger
+   1 medisinene
    1 massedød
    1 maskot
    1 masker
    1 martyrer
-   1 markedsføring
+   1 marsj
    1 maratonet
    1 mann
+   1 makt
    1 løsninger
-   1 løslatte
    1 løft
    1 lånet
-   1 lån
    1 lut
-   1 lunger
    1 luksus
+   1 lovparaplyen
+   1 lovgiving
+   1 lovforslaget
    1 lovforslag
    1 lock
    1 liste
    1 linja
    1 lindring
-   1 lettelser
    1 leksikon
    1 lekkasje
    1 leir
+   1 leger
    1 leder
    1 ledelse
    1 laboratorium
@@ -1035,264 +1413,294 @@
    1 kuttes
    1 kurvene
    1 kurve
+   1 kurser
    1 kupp
    1 kunsten
    1 kunnskap
    1 krøll
    1 kræsjen
    1 kronikker
-   1 krisetiltak
+   1 kronene
    1 krisetider
+   1 krisetidene
    1 kriseteam
+   1 kriseskapte
    1 kriserammet
+   1 krisene
    1 krisemøte
+   1 krisemilliardene
    1 kriseledelse
-   1 krisehjelp
-   1 krisefondet
+   1 krisekomiteen
+   1 krisegruppa
+   1 krisedirektør
    1 kravene
-   1 krav
-   1 krasjen
+   1 krasj
+   1 krangling
    1 krakk
    1 kraft
+   1 kostyme
    1 kostnadstallene
    1 kostnadene
    1 kostnaden
-   1 kortet
-   1 kontroll
+   1 koordinator
    1 kontoret
-   1 kontor
    1 konto
-   1 kontantstøtten
    1 konsumet
+   1 konspirasjonene
    1 konsertkonseptet
+   1 konsekvenserbrev
    1 konklusjonene
-   1 konflikt
+   1 konfronterer
+   1 komplikasjoner
    1 kommunikasjonen
-   1 kommuner
+   1 kommunikasjon
+   1 kommuneveilederen
+   1 kommunene
    1 kommune
    1 kommentarer
-   1 kommentar
    1 kollisjonskurs
-   1 knuter
+   1 kollaps
+   1 knutene
    1 knipen
+   1 knipe
    1 knekk
+   1 kneiken
    1 kneika
    1 knappen
    1 kluss
-   1 klippen
    1 klipp
+   1 klimaet
+   1 klikken
+   1 klemme
    1 klemma
    1 klassiker
    1 kjøring
    1 kjeftingen
    1 kjefting
-   1 kjeft
-   1 kisen
    1 katt
    1 kasser
    1 kartlegging
    1 karantenesenter
-   1 karanteneregler
    1 karantenereglene
-   1 karantener
    1 karantenene
+   1 karantenebrudd
+   1 karanten
    1 karante
+   1 kappløpet
+   1 kampene
    1 kake
    1 kaka
    1 justerte
-   1 jus
+   1 jordbær
+   1 jogger
    1 jobbproblemer
-   1 jobbingen
    1 jobben
    1 jakt
    1 jackpoten
-   1 isolerte
-   1 isoleringen
    1 isolasjonsenhet
    1 irritasjon
    1 intervjue
+   1 interessen
+   1 inspirerte
    1 inspirert
    1 inntrenger
    1 innstengt
-   1 innrykket
-   1 influenserne
-   1 influensaen
-   1 infeksjonen
+   1 innskrenkelsene
+   1 innsatsgruppa
+   1 initiativet
+   1 influenseren
+   1 infeksjonsutløste
    1 industrien
    1 induserte
+   1 idioti
+   1 hårkriser
    1 husleie
    1 hurtigtester
-   1 hull
+   1 hotspots
+   1 hotline
    1 hodepine
    1 hjerne
+   1 hjemmetester
    1 hjemmetest
    1 hjemmeliv
+   1 hjemmekontorperioden
    1 hjelpgrupper
-   1 hjelper
    1 hjelpepakker
-   1 hjelpepakke
-   1 hits
-   1 hilsen
+   1 hjelpe
+   1 historie
    1 hets
-   1 herjet
+   1 hender
    1 helter
    1 helt
    1 helsesjekk
    1 helsepersonell
-   1 helikopter
+   1 helikopteret
    1 helgene
+   1 helgen
+   1 helg
    1 handlingen
-   1 guiden
    1 grå
-   1 gruve
-   1 gruppa
-   1 griseflaks
-   1 granskning
+   1 gryte
+   1 greia
    1 granskingskommisjonen
+   1 gransker
+   1 graffiti
+   1 golf
    1 gjørme
+   1 gjørma
+   1 gjengen
    1 gjelda
-   1 generalen
+   1 gevinst
+   1 genser
    1 gaver
    1 gapet
    1 gapestokk
    1 gang
-   1 fødestuen
-   1 fryktens
+   1 fullmaktene
+   1 fullmakten
    1 frustrert
-   1 friskmeldt
+   1 frisyre
+   1 friskmeldtes
+   1 friskmeldte
+   1 fremtid
+   1 fremkalt
+   1 freden
+   1 framsnakk
    1 fotball
-   1 forvirring
-   1 forskjeller
    1 forsker
    1 forsinket
+   1 forsinkelse
    1 forsikringer
+   1 forsider
    1 fornekterne
-   1 forhandlinger
-   1 forhandlingene
-   1 forbud
-   1 forberedelser
+   1 forløpet
+   1 forklaringen
+   1 forholdsreglene
+   1 forenklinger
    1 forberedelsene
-   1 forbehold
+   1 folketett
+   1 fokus
    1 flytter
+   1 flaske
    1 flaks
-   1 finte
+   1 finansiering
    1 filmen
+   1 festene
    1 fengselet
+   1 fengsel
    1 feltsykehuset
-   1 feit
    1 fatiguen
-   1 fasen
-   1 episenteret
+   1 etterforskninger
    1 endres
    1 eliten
    1 eksport
    1 eksponeringen
-   1 eksponering
-   1 ekspertene
-   1 eksperten
-   1 ekspert
-   1 ekspedisjonen
+   1 eksplosjonen
+   1 eksplosjon
    1 døgnet
    1 døgn
-   1 dødstallnivå
    1 dødsstille
    1 dødsstatistikken
    1 dødsraten
-   1 dødfallet
    1 dødfall
+   1 dvalen
    1 dugnadssporet
    1 drone
-   1 drama
-   1 drakter
-   1 dragsuget
+   1 driten
+   1 doen
    1 distansering
-   1 dikutatur
-   1 diktaturet
+   1 diplomatiet
+   1 dimensjoner
    1 diktatoren
    1 dietten
-   1 detox
-   1 detektiver
    1 detektivene
+   1 deteksjon
    1 den
-   1 demonstrasjoner
-   1 demonstrasjonene
-   1 demonstranter
+   1 demonstranten
+   1 demens
    1 delen
    1 datainnsamling
    1 data
-   1 dans
    1 damene
+   1 dagen
    1 dagboken
-   1 dagbok
    1 cruiseskipet
+   1 containere
    1 comeback
    1 challenge
-   1 bøter
+   1 bøtene
    1 bønner
-   1 bølger
+   1 bølgene
    1 bussen
-   1 bunnen
+   1 business
+   1 bursdag
+   1 bråstopp
+   1 bryllup
+   1 bryggeriene
+   1 bruder
    1 brudd
-   1 brifingen
    1 brifing
-   1 brif
+   1 briefingen
    1 brief
    1 brevet
    1 brev
    1 bremsen
-   1 boten
    1 bota
+   1 borgertog
    1 borger
    1 boost
    1 boom
-   1 bonus
    1 bonanza
+   1 bombene
+   1 bomben
    1 blomstrer
-   1 blinde
-   1 bildet
    1 bilde
    1 bidrag
+   1 besøk
+   1 bestemora
    1 bestemmelser
+   1 beslutninger
+   1 beskyttes
    1 beskyttelse
-   1 berørte
    1 benker
    1 belastningene
    1 belastede
+   1 bekymringer
    1 bekymringen
-   1 bekymret
+   1 bekymring
    1 bekreftet
    1 bekreftelsen
-   1 bekjempelsen
    1 behovet
-   1 behandlinger
    1 begrunnelse
    1 begrensningene
    1 begrenset
+   1 begravelse
    1 bedrageri
    1 bedragere
    1 basert
+   1 bakrusen
    1 baby
    1 avstemning
-   1 avstanden
    1 avsperret
    1 avlyser
    1 avlyse
    1 avlaster
+   1 avgjørelser
    1 avdelingene
-   1 avdelingen
-   1 asyl
+   1 avbrekket
    1 astrid
    1 arrangement
-   1 arbeidsdagen
-   1 arbeidere
+   1 arbeidsledighet
+   1 arbeid
    1 antistoffene
-   1 ansvarlig
-   1 anslag
    1 angrep
    1 anbefalinger
+   1 anbefalingene
    1 analyse
+   1 alvoret
    1 alternativ
    1 akuttmottak
-   1 akonsekvenser
+   1 aktuell
+   1 aksje
    1 aggresjonen
-   1 adferd
+   1 17.mai
