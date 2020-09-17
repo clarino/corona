@@ -2,7 +2,7 @@
 Analysis of corona compounds from the Norwegian Newspaper Corpus.
 
 Items occurring as the second part of compounds starting with *corona* or *korona*.
-These initial parts and possible hyphens have been stripped.
+Possible hyphens have been stripped.
 All items have been case-folded by downcasing.
 
 Example: *virus* aggregates occurrences of *coronavirus, koronavirus, corona-virus, korona-virus,
