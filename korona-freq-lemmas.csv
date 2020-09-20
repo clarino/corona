@@ -179,6 +179,7 @@
   12 diagnose
   12 bekjempelse
   12 bar
+  11 virustilfelle
   11 virussymptom
   11 utgift
   11 status
@@ -216,7 +217,6 @@
    9 ferie
    9 dekning
    9 bekymrede
-   8 virustilfelle
    8 virusregel
    8 sms
    8 pågang
@@ -345,11 +345,13 @@
    4 uro
    4 tsar
    4 tiltakspakke
+   4 teststasjon
    4 telte
    4 tabu
    4 svindle
    4 spøkelse
    4 språk
+   4 smittetilfelle
    4 smittetall
    4 smittespredning
    4 smittesentere
@@ -402,7 +404,6 @@
    4 avstenge
    3 vårens
    3 vits
-   3 virustilfell
    3 virusmøte
    3 viruses
    3 virusbeskyttelse
@@ -415,7 +416,6 @@
    3 tv
    3 true
    3 tiltakenes
-   3 teststasjone
    3 teori
    3 søk
    3 studium
@@ -558,8 +558,6 @@
    2 spøk
    2 sommer
    2 smittetiltak
-   2 smittetilfelle
-   2 smittetilfell
    2 smittesituasjon
    2 smitteråd
    2 slagmark
@@ -811,7 +809,6 @@
    1 tilbud
    1 tiiltake
    1 thriller
-   1 teststasjon
    1 testrestriksjone
    1 testfeil
    1 tema
@@ -1237,4 +1234,3 @@
    1 aksje
    1 aggresjon
    1 17.mai
-   1 -PRON-
