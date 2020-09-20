@@ -1,21 +1,36 @@
 # corona
 Analysis of corona compounds from the Norwegian Newspaper Corpus.
 
-Items occurring as the second part of compounds starting with *corona* or *korona*.
+All files contain items occurring as the second part of compounds
+starting with *corona* or *korona*.
 Possible hyphens have been stripped.
 All items have been case-folded by downcasing.
 
-Example: *virus* aggregates occurrences of *coronavirus, koronavirus, corona-virus, korona-virus,
-Coronavirus, Koronavirus, CORONA-VIRUS,* etc.
+Example: *virus* aggregates occurrences of *coronavirus, koronavirus,
+corona-virus, korona-virus, Coronavirus, Koronavirus, CORONA-VIRUS,* etc.
 
-This updated version is based on materials from CLARINO Corpuscle that cover the period from January 1 until May
-26, 2020.
+Additionally, lemmatized files aggregate occurrences of inflected forms.
+Example: *virus*, *viruset*, *virusets*, *virusene*, etc.
+
+This updated version is based on materials from CLARINO Corpuscle that
+cover the period from January 1 until May 26, 2020.
 
 ## Files:
 
-*korona-freq.csv* = frequency list of items, ordered by decreasing frequency
+*korona-freq-forms.csv* = frequency list of word forms, ordered by
+decreasing frequency
 
-*korona-compounds.csv* = types by date of first occurrence, also including source; if an item
-appeared in different sources on the same date, only one source is given.
+*korona-freq-lemmas.csv* = frequency list of lemmas, ordered by
+decreasing frequency
 
-These character separated files have TAB as field separator.
+*korona-compounds-forms.csv* = word forms by date of first occurrence,
+also including source;
+if an item appeared in different sources on the same date,
+only one source is given.
+
+*korona-compounds-lemmas.csv* = lemmas by date of first occurrence,
+also including source;
+if an item appeared in different sources on the same date,
+only one source is given.
+
+All these character separated files have TAB as field separator.
