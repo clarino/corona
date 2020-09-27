@@ -1,5 +1,6 @@
 # corona
-Analysis of corona compounds from the Norwegian Newspaper Corpus.
+Analysis of corona compounds from the Norwegian Newspaper Corpus
+by Koenraad De Smedt, University of Bergen.
 
 All files contain items occurring as the second part of compounds
 starting with *corona* or *korona*.
@@ -9,11 +10,14 @@ All items have been case-folded by downcasing.
 Example: *virus* aggregates occurrences of *coronavirus, koronavirus,
 corona-virus, korona-virus, Coronavirus, Koronavirus, CORONA-VIRUS,* etc.
 
-Additionally, lemmatized files aggregate occurrences of inflected forms.
+Additionally, lemmatized lists aggregate occurrences of inflected forms.
 Example: *virus*, *viruset*, *virusets*, *virusene*, etc.
 
-This updated version is based on materials from CLARINO Corpuscle that
-cover the period from January 1 until May 26, 2020.
+This updated version is based on materials from CLARINO Corpuscle
+covering the period from January 1 until May 26, 2020.
+
+A further description and analysis of these data will be presented
+in forthcoming papers.
 
 ## Files:
 
