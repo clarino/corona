@@ -1,13 +1,13 @@
 31306 virus
 9487 krise
-7394 smitte
+7403 smitte
 3701 pandemi
 2103 utbrudd
 1719 situasjon
 1625 tiltak
 1357 epidemi
 1206 dødsfall
-1124 pasient
+1123 pasient
  822 tid
  695 relatere
  558 syk
@@ -15,7 +15,7 @@
  369 lov
  347 tilfelle
  338 virusutbrudd
- 324 regel
+ 327 regel
  287 ramme
  276 stenge
  273 restriksjon
@@ -101,6 +101,7 @@
   24 avlyse
   23 virusteste
   23 penger
+  23 konkurs
   22 utsettelse
   22 stengning
   22 kart
@@ -124,6 +125,7 @@
   19 spesial
   19 positiv
   19 oversikt
+  19 lockdown
   19 episenter
   18 virusrelatert
   18 statistikk
@@ -137,9 +139,8 @@
   17 dag
   17 avlysning
   16 obligasjon
-  16 lockdown
   16 kø
-  16 konkurs
+  16 krig
   16 bestemmelse
   16 behandling
   15 tjeneste
@@ -162,7 +163,6 @@
   13 permittering
   13 million
   13 kriminalitet
-  13 krig
   13 budsjett
   13 avstand
   13 advarsel
@@ -190,6 +190,7 @@
   11 forslag
   11 dødsrate
   10 vår
+  10 virusfrykt
   10 vennlig
   10 utvalg
   10 tilværelse
@@ -230,6 +231,7 @@
    8 isolat
    8 inspektør
    8 helvete
+   7 viruseffekt
    7 viruse
    7 virusdødsfall
    7 vedtak
@@ -247,8 +249,8 @@
    7 løsning
    7 låte
    7 ledig
-   7 konkurse
    7 info
+   7 influenser
    7 frisk
    7 dokument
    7 cruise
@@ -256,8 +258,6 @@
    7 bilde
    7 analyse
    6 år
-   6 virusfrykt
-   6 viruseffekten
    6 venn
    6 undersøkelse
    6 tunnel
@@ -317,6 +317,7 @@
    5 krisetiltak
    5 kriserammede
    5 krisas
+   5 krasj
    5 kontroll
    5 konkurranse
    5 kommisjonens
@@ -336,9 +337,8 @@
    5 autoritet
    5 arbeider
    4 økonomi
-   4 virusrestriksjone
+   4 virusrestriksjoner
    4 virusofre
-   4 virusfrykte
    4 vesen
    4 vakt
    4 utspill
@@ -410,7 +410,7 @@
    3 vinne
    3 vente
    3 vekst
-   3 utvalgets
+   3 utvalget
    3 utløse
    3 utgave
    3 tv
@@ -426,16 +426,12 @@
    3 statsråd
    3 spesifikk
    3 solidaritet
-   3 smittete
-   3 smittens
-   3 smittende
    3 sikre
    3 rom
    3 resultat
    3 reportasje
    3 rente
    3 rekord
-   3 reglar
    3 redsel
    3 punkt
    3 plager
@@ -450,18 +446,14 @@
    3 løslate
    3 låt
    3 låse
-   3 lockdowne
    3 ledighet
    3 lansere
    3 kristen
-   3 krigens
-   3 krasjen
    3 kontrast
    3 klem
    3 kansellere
-   3 joggerskamme
+   3 joggerskam
    3 innsatsgruppe
-   3 influensere
    3 immune
    3 håp
    3 hull
@@ -512,7 +504,6 @@
    2 øvelse
    2 øl
    2 åpning
-   2 vius
    2 vis
    2 virusykdom
    2 virusutløst
@@ -523,7 +514,7 @@
    2 virusspesial
    2 virusrisiko
    2 virusrelatere
-   2 virusrammed
+   2 virusramme
    2 viruskarante
    2 virusgruppe
    2 virusfast
@@ -596,7 +587,7 @@
    2 norsk
    2 norge
    2 nordmann
-   2 navere
+   2 nave
    2 mørketall
    2 målsetting
    2 myte
@@ -618,7 +609,6 @@
    2 lederskap
    2 krisehjelp
    2 kriminell
-   2 krasj
    2 krangel
    2 kos
    2 kortfilm
@@ -641,9 +631,7 @@
    2 inspirere
    2 inspeksjon
    2 innrykk
-   2 influenserne
    2 influensa
-   2 influens
    2 høring
    2 hår
    2 hysteri
@@ -695,7 +683,7 @@
    2 blod
    2 blemme
    2 berøre
-   2 bekjempelsens
+   2 bekjempe
    2 barnehage
    2 asyl
    2 arbeidsliv
@@ -705,9 +693,8 @@
    2 anbefaling
    2 adferd
    1 åpningstid
-   1 vrus
    1 viurs
-   1 virusvideoe
+   1 virusvideo
    1 virusvekst
    1 virusutspill
    1 virusutbrudde
@@ -721,7 +708,6 @@
    1 virustelt
    1 virustelefon
    1 virustap
-   1 virussykdom2
    1 virussvar
    1 virusspøk
    1 virussmittetall
@@ -751,7 +737,6 @@
    1 viruseumøte
    1 virusen
    1 virusekspertpanelet
-   1 viruseffekt
    1 virusdrevne
    1 virusdirektorat
    1 virusdiplomati
@@ -763,16 +748,13 @@
    1 virusapp
    1 virusalarme
    1 virusadvarsel
-   1 virsu
    1 viros
    1 virkelighet
-   1 viriu
    1 vinde
    1 video
    1 verk
    1 vegrere
    1 vegge
-   1 vaskine
    1 vask
    1 varsle
    1 varsku
@@ -809,7 +791,7 @@
    1 tilbud
    1 tiiltake
    1 thriller
-   1 testrestriksjone
+   1 testrestriksjoner
    1 testfeil
    1 tema
    1 telefonstorm
@@ -948,8 +930,6 @@
    1 pass
    1 pasients
    1 pasienters
-   1 pasiene
-   1 pasente
    1 partys
    1 partikkel
    1 panel
@@ -976,9 +956,7 @@
    1 nestor
    1 nes
    1 nervøs
-   1 nens
    1 nekte
-   1 ne
    1 natt
    1 nasjonalisme
    1 mørketid
@@ -1072,7 +1050,6 @@
    1 kartlegging
    1 karantenesente
    1 karantenebrudd
-   1 karante
    1 karane
    1 kappløp
    1 justere
@@ -1082,7 +1059,7 @@
    1 jobb
    1 jakt
    1 jackpot
-   1 isolasjonsenh
+   1 isolasjonsenhet$
    1 irritasjon
    1 intervjue
    1 interesse

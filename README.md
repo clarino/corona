@@ -13,11 +13,14 @@ corona-virus, korona-virus, Coronavirus, Koronavirus, CORONA-VIRUS,* etc.
 Additionally, lemmatized lists aggregate occurrences of inflected forms.
 Example: *virus*, *viruset*, *virusets*, *virusene*, etc.
 
-This updated version is based on materials from CLARINO Corpuscle
-covering the period from January 1 until May 26, 2020.
+A further description of the data and its analysis of these data 
+will be presented in forthcoming papers.
 
-A further description and analysis of these data will be presented
-in forthcoming papers.
+This updated version is based on materials obtained through 
+CLARINO Corpuscle
+covering the period from January 1 until May 26, 2020.
+It may diverge slightly from the version reported in earlier
+descriptions of this research.
 
 ## Files:
 

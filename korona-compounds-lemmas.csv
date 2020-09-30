@@ -24,10 +24,9 @@ VG	2/02	smittetilfelle
 DB	2/02	tilfelle
 VG	2/02	virusinfeksjon
 VG	2/02	virussymptom
-VG	2/02	virusvideoe
+VG	2/02	virusvideo
 VG	2/02	vits
 VG	2/06	varsle
-DB	2/06	virussykdom2
 VG	2/08	varsler
 VG	2/10	kritikk
 DN	2/10	virussmell
@@ -101,12 +100,11 @@ DN	2/29	berøre
 DB	2/29	prøvesvar
 VG	2/29	studio
 AA	2/29	trussel
-BT	2/29	virusrammed
+BT	2/29	virusramme
 AA	2/29	virusrutine
 DN	3/01	knekk
 DA	3/01	kobling
 SA	3/01	retningslinje
-DB	3/01	smittete
 DA	3/01	utvikling
 AA	3/02	angst
 DA	3/02	beskyttelse
@@ -121,7 +119,7 @@ VG	3/02	regel
 AA	3/02	stoff
 DB	3/02	svindel
 DB	3/02	svindler
-DN	3/02	viruseffekten
+DN	3/02	viruseffekt
 DB	3/02	viruskontrolløre
 DN	3/02	virussituasjon
 AP	3/03	behandling
@@ -135,13 +133,12 @@ NL	3/03	pågang
 VG	3/03	smittesituasjon
 DB	3/03	tid
 VG	3/03	trøbbel
-DA	3/03	viruseffekt
 DN	3/03	viruspanikken
 SA	3/03	virustest
 DB	3/03	virusykdom
 DB	3/04	alarm
 DN	3/04	fremtid
-DA	3/04	influens
+DA	3/04	influenser
 DN	3/04	melding
 SA	3/04	nummer
 VG	3/04	permittering
@@ -206,7 +203,6 @@ AP	3/09	kupp
 DB	3/09	opprør
 DB	3/09	pressekonferanse
 VG	3/09	uvær
-AA	3/09	virusfrykte
 SA	3/09	viruspandemi
 VG	3/10	analyse
 SA	3/10	avbestilling
@@ -221,7 +217,7 @@ AP	3/10	fravær
 DA	3/10	innleggelse
 VG	3/10	jobbprobleme
 NL	3/10	knekken
-FV	3/10	konkurse
+FV	3/10	konkurs
 DA	3/10	linje
 VG	3/10	politikk
 VG	3/10	praksis
@@ -262,7 +258,6 @@ DA	3/12	kø
 DB	3/12	liknende
 DB	3/12	lock
 NL	3/12	mottak
-AP	3/12	pasiene
 BT	3/12	podd
 DA	3/12	psyke
 DA	3/12	senter
@@ -300,7 +295,6 @@ VG	3/13	overkjøre
 AP	3/13	pakke
 SA	3/13	robot
 AP	3/13	rutine
-FV	3/13	smittende
 SA	3/13	stansede
 AP	3/13	strande
 AP	3/13	unntakstilstand
@@ -435,7 +429,6 @@ VG	3/19	inspirere
 DB	3/19	kluss
 AP	3/19	konsert
 VG	3/19	kriseledelse
-VG	3/19	nens
 DB	3/19	offer
 DA	3/19	oppfølging
 AP	3/19	sykmeldt
@@ -479,7 +472,6 @@ VG	3/20	utvalg
 AP	3/20	versjon
 AP	3/20	viruskostyme
 DN	3/20	virusspredning
-VG	3/20	vrus
 NL	3/20	økonomi
 VG	3/21	advarsel
 DN	3/21	eksport
@@ -516,7 +508,7 @@ AP	3/22	vegrere
 DB	3/23	angrep
 AP	3/23	annonse
 VG	3/23	astrid
-AA	3/23	bekjempelsens
+AA	3/23	bekjempe
 AP	3/23	brief
 VG	3/23	dødelighet
 VG	3/23	elite
@@ -524,7 +516,6 @@ SA	3/23	fint
 VG	3/23	folketett
 VG	3/23	gjenge
 DA	3/23	konklusjon
-VG	3/23	pasente
 VG	3/23	sertifisere
 VG	3/23	smitterne
 AP	3/23	spesifikk
@@ -543,7 +534,6 @@ AP	3/24	kampens
 SA	3/24	kjefting
 VG	3/24	kollisjonskurs
 VG	3/24	kommune
-AP	3/24	krigens
 DA	3/24	krisetid
 DN	3/24	krisetiltak
 AA	3/24	krøll
@@ -558,7 +548,7 @@ SA	3/24	reiseråd
 AP	3/24	sikker
 DA	3/24	snakke
 VG	3/24	synge
-VG	3/24	testrestriksjone
+VG	3/24	testrestriksjoner
 VG	3/24	timefortime
 VG	3/24	transport
 DB	3/24	tsunami
@@ -570,7 +560,6 @@ DA	3/25	beskytte
 DB	3/25	drone
 DN	3/25	hilsen
 SA	3/25	irritasjon
-NL	3/25	konkurs
 VG	3/25	kostnad
 VG	3/25	kriserammede
 DA	3/25	kunnskap
@@ -583,7 +572,6 @@ VG	3/25	nes
 BT	3/25	oppdrag
 DA	3/25	ord
 DN	3/25	profittering
-DA	3/25	smittens
 NL	3/25	snitte
 DB	3/25	statistikk
 DB	3/25	stille
@@ -602,8 +590,6 @@ BT	3/26	forsikring
 SA	3/26	funn
 DB	3/26	general
 DB	3/26	helsepersonell
-DB	3/26	influensere
-AP	3/26	influenserne
 AA	3/26	klemme
 BT	3/26	obligasjon
 AA	3/26	oppgave
@@ -687,7 +673,7 @@ DA	3/31	basere
 AP	3/31	bombe
 NL	3/31	hjemmetest
 AP	3/31	jogge
-AP	3/31	joggerskamme
+AP	3/31	joggerskam
 SA	3/31	klassiker
 DA	3/31	kollaps
 DB	3/31	krisas
@@ -869,7 +855,7 @@ VG	4/13	viruskaos
 AA	4/13	virusrapport
 AP	4/13	år
 DA	4/14	dato
-AP	4/14	isolasjonsenh
+AP	4/14	isolasjonsenhet$
 AA	4/14	kurs
 DB	4/14	lovparaplyen
 VG	4/14	maraton
@@ -936,7 +922,7 @@ DA	4/20	gjeld
 DN	4/20	hele
 DB	4/20	hår
 AP	4/20	kneik
-AP	4/20	navere
+AP	4/20	nave
 VG	4/20	regulering
 SA	4/20	salg
 SA	4/20	sykdommens
@@ -1049,14 +1035,14 @@ DN	4/30	race
 NL	4/30	studium
 SA	4/30	støttemottakere
 AP	4/30	vente
-AA	4/30	virusrestriksjone
+AA	4/30	virusrestriksjoner
 AA	4/30	virustrussele
 DA	5/01	arbeider
 AP	5/01	avfall
 VG	5/01	avstemning
 VG	5/01	begrenset
 VG	5/01	granskingskommisjon
-SA	5/01	krasjen
+SA	5/01	krasj
 AA	5/01	kutte
 DN	5/01	lederskap
 VG	5/01	misbruker
@@ -1104,9 +1090,7 @@ AA	5/05	veilede
 VG	5/06	alternativ
 DB	5/06	forske
 DA	5/06	kake
-DA	5/06	karante
 AP	5/06	konsum
-VG	5/06	krasj
 AP	5/06	opphopning
 AA	5/06	oppmyking
 AP	5/06	oppmykning
@@ -1116,14 +1100,11 @@ AA	5/06	skrekk
 AP	5/06	stegning
 VG	5/06	tabu
 VG	5/06	utdeling
-VG	5/06	vaskine
 DB	5/06	vårens
 AP	5/07	barnehage
 BT	5/07	ekspedisjon
 AP	5/07	jobb
 AP	5/07	ledig
-VG	5/07	ne
-BT	5/07	reglar
 AA	5/07	reportasje
 VG	5/07	serie
 BT	5/07	styr
@@ -1132,7 +1113,6 @@ AP	5/08	arbeidsdag
 AA	5/08	dødstallnivå
 VG	5/08	frisyre
 AP	5/08	ledighet
-VG	5/08	lockdowne
 DA	5/08	minske
 DB	5/09	friskmeldte
 VG	5/09	gang
@@ -1181,7 +1161,6 @@ SA	5/15	aktuell
 AP	5/15	graffiti
 VG	5/15	krisekomitee
 AP	5/15	nøkkel
-VG	5/15	virsu
 VG	5/16	feire
 DA	5/16	fred
 AP	5/16	messig
@@ -1196,16 +1175,14 @@ SA	5/17	verk
 SA	5/18	borgertog
 VG	5/18	revidere
 SA	5/18	støtteordning
-AA	5/18	viriu
 DA	5/18	virkelighet
 DB	5/18	virusforsømmelse
-DA	5/18	vius
 DN	5/19	gavmild
 DA	5/19	risk
 SA	5/19	suksess
 VG	5/19	thriller
 DA	5/19	triks
-AA	5/19	utvalgets
+AA	5/19	utvalget
 BT	5/20	klikk
 VG	5/20	viruståke
 AA	5/21	dvalen

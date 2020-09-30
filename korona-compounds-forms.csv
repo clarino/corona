@@ -37,7 +37,6 @@ VG	2/02	vitsene
 VG	2/03	sykehus
 VG	2/06	varsler
 VG	2/06	virusepidemien
-DB	2/06	virussykdom2
 VG	2/08	varsleren
 VG	2/10	kritikk
 DN	2/10	virussmell
@@ -351,7 +350,6 @@ DA	3/12	linjene
 DB	3/12	lock
 NL	3/12	mottak
 NL	3/12	mottaket
-AP	3/12	pasiener
 BT	3/12	podden
 VG	3/12	positivt
 VG	3/12	problemer
@@ -595,7 +593,6 @@ VG	3/19	inspirert
 DB	3/19	kluss
 AP	3/19	konserter
 VG	3/19	kriseledelse
-VG	3/19	nens
 DB	3/19	ofrene
 DA	3/19	oppfølging
 AA	3/19	permittering
@@ -660,7 +657,6 @@ AP	3/20	versjon
 AP	3/20	virusinfeksjonen
 AP	3/20	viruskostyme
 DN	3/20	virusspredningen
-VG	3/20	vrus
 NL	3/20	økonomien
 VG	3/21	advarsler
 AA	3/21	bestemmelsene
@@ -718,7 +714,6 @@ VG	3/23	folketett
 AP	3/23	forskningen
 VG	3/23	gjengen
 DA	3/23	konklusjonene
-VG	3/23	pasenter
 VG	3/23	sertifisert
 VG	3/23	smitterne
 AP	3/23	spesifikke
@@ -833,7 +828,6 @@ DA	3/26	liv
 DB	3/26	lovforslaget
 BT	3/26	obligasjoner
 AA	3/26	oppgave
-BT	3/26	pasientet
 AA	3/26	plager
 VG	3/26	plakater
 DB	3/26	profitørene
@@ -1515,7 +1509,6 @@ VG	5/06	alternativ
 DB	5/06	forsker
 DA	5/06	kaka
 DA	5/06	kake
-DA	5/06	karanten
 AP	5/06	konsumet
 AP	5/06	møtet
 AP	5/06	opphopningen
@@ -1532,7 +1525,6 @@ AP	5/06	teststasjon
 AA	5/06	tåken
 VG	5/06	utdeling
 DA	5/06	utgiftene
-VG	5/06	vaskiner
 DB	5/06	vårens
 AP	5/07	barnehage
 BT	5/07	ekspedisjonen
@@ -1540,7 +1532,6 @@ VG	5/07	friskmeldt
 AP	5/07	jobben
 AP	5/07	ledige
 DA	5/07	milliard
-VG	5/07	nen
 BT	5/07	reglar
 AA	5/07	reportasjer
 VG	5/07	serie
@@ -1628,7 +1619,6 @@ AP	5/15	graffiti
 VG	5/15	krisekomiteen
 AP	5/15	nøkkelen
 DA	5/15	ordning
-VG	5/15	virsuet
 VG	5/16	feiret
 DA	5/16	freden
 VG	5/16	kampene
@@ -1649,10 +1639,8 @@ VG	5/18	protesten
 VG	5/18	revidert
 SA	5/18	støtteordningene
 DA	5/18	verstinger
-AA	5/18	viriuet
 DA	5/18	virkeligheten
 DB	5/18	virusforsømmelser
-DA	5/18	viuset
 DN	5/19	gavmild
 DA	5/19	risk
 SA	5/19	suksess
