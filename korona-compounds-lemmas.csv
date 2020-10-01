@@ -76,7 +76,6 @@ DB	2/27	sykdom
 SA	2/27	teste
 BT	2/27	testing
 DN	2/27	utstyr
-BT	2/27	virushar
 VG	2/27	virusområd
 DA	2/27	virussykdom
 NL	2/28	dekning
@@ -271,7 +270,7 @@ BT	3/12	vern
 NL	3/12	virusforløp
 VG	3/12	viruskrise
 DA	3/12	virustelefon
-DB	3/12	virustoppe
+DB	3/12	virustopp
 DB	3/13	asyl
 AP	3/13	bidrag
 DN	3/13	boom
@@ -489,7 +488,6 @@ SA	3/21	smitteråd
 AA	3/21	søk
 VG	3/21	tilstand
 VG	3/21	utmatte
-DA	3/21	viruet
 VG	3/21	virusmelding
 DB	3/21	virusrelatere
 AP	3/22	dagbok
@@ -752,7 +750,6 @@ DB	4/03	sentre
 DB	4/03	smittepasient
 SA	4/03	spreding
 DA	4/03	teststasjon
-SA	4/03	viros
 DA	4/03	viruse
 AP	4/04	dikt
 SA	4/04	jackpot
@@ -805,7 +802,6 @@ AA	4/07	permisjon
 DA	4/07	presang
 DB	4/07	spapire
 DB	4/07	spåmann
-SA	4/07	stoppe
 AA	4/08	dødfallet
 DB	4/08	hotspots
 VG	4/08	kommisjon
@@ -855,7 +851,7 @@ VG	4/13	viruskaos
 AA	4/13	virusrapport
 AP	4/13	år
 DA	4/14	dato
-AP	4/14	isolasjonsenhet$
+AP	4/14	isolasjonsenhet
 AA	4/14	kurs
 DB	4/14	lovparaplyen
 VG	4/14	maraton
@@ -906,7 +902,6 @@ NL	4/18	oppsving
 DB	4/18	portforbud
 DB	4/18	smitteanbefaling
 DB	4/18	veileder
-VG	4/18	viurs
 NL	4/19	adferd
 DB	4/19	demonstrant
 DB	4/19	diktatur
@@ -987,7 +982,7 @@ NL	4/25	mørketid
 NL	4/25	permisjonens
 DB	4/25	refs
 VG	4/25	roman
-VG	4/25	vinde
+VG	4/25	vind
 VG	4/26	inspeksjon
 NL	4/26	modus
 BT	4/26	protein
@@ -1060,7 +1055,7 @@ DB	5/03	stunt
 DB	5/03	tilbud
 DB	5/03	turnus
 NL	5/04	belastning
-VG	5/04	bråstoppe
+VG	5/04	bråstopp
 BT	5/04	flaske
 NL	5/04	gruve
 NL	5/04	hjemmekontorperiode
@@ -1077,7 +1072,6 @@ AA	5/05	fall
 VG	5/05	feltsykehus
 DB	5/05	gebyr
 DN	5/05	giverglede
-DA	5/05	gjørma
 DA	5/05	gjørme
 AP	5/05	intervjue
 SA	5/05	leksikon

@@ -182,6 +182,7 @@
   11 virustilfelle
   11 virussymptom
   11 utgift
+  11 stopp
   11 status
   11 medisiner
   11 mareritt
@@ -194,7 +195,6 @@
   10 vennlig
   10 utvalg
   10 tilværelse
-  10 stopp
   10 påske
   10 politi
   10 linje
@@ -292,7 +292,6 @@
    5 virustiltak
    5 virustest
    5 virusrutine
-   5 virushar
    5 virkning
    5 versting
    5 varsler
@@ -519,7 +518,6 @@
    2 virusgruppe
    2 virusfast
    2 virusfase
-   2 viruet
    2 vinner
    2 villrede
    2 versjon
@@ -647,6 +645,7 @@
    2 griseflaks
    2 grense
    2 granskning
+   2 gjørme
    2 giverglede
    2 gavmild
    2 garanti
@@ -693,7 +692,6 @@
    2 anbefaling
    2 adferd
    1 åpningstid
-   1 viurs
    1 virusvideo
    1 virusvekst
    1 virusutspill
@@ -703,7 +701,7 @@
    1 virustrusselen
    1 virustrussele
    1 virustrende
-   1 virustoppe
+   1 virustopp
    1 virustema
    1 virustelt
    1 virustelefon
@@ -748,9 +746,8 @@
    1 virusapp
    1 virusalarme
    1 virusadvarsel
-   1 viros
    1 virkelighet
-   1 vinde
+   1 vind
    1 video
    1 verk
    1 vegrere
@@ -818,7 +815,6 @@
    1 streik
    1 strand
    1 stoppen
-   1 stoppe
    1 stole
    1 stil
    1 stikken
@@ -1059,7 +1055,7 @@
    1 jobb
    1 jakt
    1 jackpot
-   1 isolasjonsenhet$
+   1 isolasjonsenhet
    1 irritasjon
    1 intervjue
    1 interesse
@@ -1098,8 +1094,6 @@
    1 gransker
    1 graffiti
    1 golf
-   1 gjørme
-   1 gjørma
    1 gjenge
    1 gjeld
    1 genser
@@ -1161,7 +1155,7 @@
    1 busse
    1 business
    1 bursdag
-   1 bråstoppe
+   1 bråstopp
    1 bryllup
    1 bryggeri
    1 brudd
