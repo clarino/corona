@@ -2,7 +2,7 @@
 Analysis of corona compounds from the Norwegian Newspaper Corpus
 by Koenraad De Smedt, University of Bergen.
 
-Two version are available, each in its directory:
+## Two version are available, each in its directory:
 
 - korona20 covers a period from January 9, 2020 until May 26, 2020. These data are described and analyzed in: De Smedt, Koenraad. 2020. “Smittsomme Koronaord.” Oslo Studies in Language 11 (2): 59–73. https://doi.org/10.5617/osla.8488.
 
