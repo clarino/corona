@@ -1,12 +1,13 @@
-# korona20 / corona21
+# korona20
+
 Analysis of corona compounds from the Norwegian Newspaper Corpus
 by Koenraad De Smedt, University of Bergen.
 
-## Two version are available, each in its directory:
+## Two versions are available:
 
-- korona20 covers a period from January 9, 2020 until May 26, 2020. These data are described and analyzed in: De Smedt, Koenraad. 2020. “Smittsomme Koronaord.” Oslo Studies in Language 11 (2): 59–73. https://doi.org/10.5617/osla.8488.
+- **korona20** covers a period from January 9, 2020 until May 26, 2020. These data are described and analyzed in: De Smedt, Koenraad. 2020. “Smittsomme Koronaord.” Oslo Studies in Language 11 (2): 59–73. https://doi.org/10.5617/osla.8488.
 
-- corona21 covers a period from January 9, 2020 until March 8, 2021. These data will be described in
+- **corona21** covers a period from January 9, 2020 until March 8, 2021. These data will be described in
 a forthcoming paper.
 
 All files contain items occurring as the second part of compounds
