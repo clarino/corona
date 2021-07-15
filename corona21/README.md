@@ -14,7 +14,7 @@ and analyzed in: De Smedt, Koenraad. 2021. “Contagious ‘Corona’ Compoundin
 All files contain items occurring as the second part of compounds
 starting with *corona* or *korona*.
 Possible hyphens have been stripped.
-All items have been case-folded by downcasing.
+All items have been casefolded by downcasing.
 
 Example: *virus* aggregates occurrences of *coronavirus, koronavirus,
 corona-virus, korona-virus, Coronavirus, Koronavirus, CORONA-VIRUS,* etc.
