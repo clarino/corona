@@ -1,4 +1,4 @@
-# corona21
+# korona20 / corona21
 
 Analysis of corona compounds from the Norwegian Newspaper Corpus
 by Koenraad De Smedt, University of Bergen.
